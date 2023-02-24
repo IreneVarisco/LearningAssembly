@@ -3,11 +3,12 @@
 #Una variabile HEAD che indica la prima posizione libera in testa alla lista
 #Si implementino le seguenti procedure:
 #insert : inserisce un elemento in testa alla lista
-#delete : cancella un elemento arbitrario della lista e ricompatta l’array
+#delete : cancella un elemento arbitrario della lista e ricompatta lï¿½array
 
 .data
 	A: .space 512
 	head: .word 0
+	
 .text
 
 la $a1 A #array a

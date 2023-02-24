@@ -3,6 +3,8 @@
 #lettera minuscola alla volta.
 #Non si fanno assunzione sul quali caratteri possa contenere la stringa in input.
 #Suggerimento: usare SB e LB (StoreByte e LoadByte) per gestire dati non allineati.
+
+
 .data 
 s: .word 1
 .text
